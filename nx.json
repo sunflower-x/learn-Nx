@@ -29,6 +29,9 @@
     }
   ],
   "release": {
-    "projects": ["packages/*"]
-  }
+    "projects": [
+      "packages/*"
+    ]
+  },
+  "nxCloudAccessToken": "ZGZhZmU5MzctNDMwYi00Mjk0LWI1ZTYtZTQ3OGU0ZjhlZjZkfHJlYWQtd3JpdGU="
 }
